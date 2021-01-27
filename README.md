@@ -1,5 +1,5 @@
 # Machine-Learning-Approach-for-IoT-Device
-A Machine Learning Approach for IoT Device Identification Based on Packet Features Analysis
+
 
 Abstract—IoT device is considered a device that is intended to perform a specific task such as a sense sleep monitor, a security camera or a smart speaker. We are thus surrounded by these devices which makes it easy for any unknown device to connect to the network without being invited.
 Therefore, it is essential to know which devices are connected to our network to protect us from any kind of privacy invasion or malware attack.
